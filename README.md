@@ -1,1 +1,1 @@
-# test-jamstik-releases-update
+# jamstik-hub-releases
